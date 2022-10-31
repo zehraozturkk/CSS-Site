@@ -1,0 +1,50 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family:'Indie Flower', cursive;
+}
+
+h1{
+  width: 10%;
+  margin: 0 auto;
+  font-family: 'Indie Flower', cursive;
+}
+
+h2{
+  font-family: 'Kalam', cursive;
+}
+
+.top-container{
+  background-color: #90A17D;
+  position: relative;
+  padding-top: 220px;
+}
+
+.top-cloud{
+  position: absolute;
+  top: 100px;
+  right: 400px;
+
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 450px;
+  bottom: 400px
+}
+
+
+
+.middle-container{
+  background-color: #B4CFB0;
+
+}
+
+.bottom-container{
+  background-color: #DAE5D0;
+
+}
+
+.pro{
+  color: blue;
+}
